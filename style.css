@@ -1,0 +1,13 @@
+.tooltip{
+  background-color: black;
+  color: white;
+  display: inline-block;
+  position: absolute;
+  padding: 10px;
+  display: none;
+}
+
+p{
+  margin: 0;
+  padding: 0;
+}
